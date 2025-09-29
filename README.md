@@ -1,4 +1,5 @@
-# Personal Portfolio Website
+<<<<<<< HEAD
+# OCHE.github.io
 
 A modern, animated portfolio website built with Flutter Web, showcasing my expertise as a CEO/Founder, developer, and forex trader.
 
@@ -81,3 +82,6 @@ This is a personal portfolio project, but suggestions and feedback are welcome! 
 ## License
 
 MIT License - feel free to use the code as inspiration for your own portfolio, but please use your own content and design.
+=======
+# OCHE.github.io
+>>>>>>> origin/main
